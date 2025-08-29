@@ -123,8 +123,9 @@ streamlit run app.py
 
 
 ```bash
-Author: Maram Pavani
+Author: Neelakantam Ooha
 Student
-Email: pavanimaram15@gmail.com
+Email: oohaneelakantam9@gmail.com
 
 ```
+
